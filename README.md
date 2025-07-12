@@ -6,7 +6,7 @@ This is a rule-based expert system that predicts weather conditions based on use
 
 ## 👥 Team Members
 
-- **Hasnain Shensha**
+- **Husnain Shenhsha**
 - **Raheel Ahmed**
 - **Hassaan Khalid**
 - **Sara Akmal**
